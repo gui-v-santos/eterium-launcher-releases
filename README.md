@@ -59,5 +59,4 @@ Artefatos são gerados na pasta `release/`.
 
 ## Observações
 
-- Este projeto **não** é uma página Lovable e não usa deploy de domínio/custom domain do Lovable.
 - Para publicar instaladores, use o fluxo de releases do GitHub configurado no `electron-builder`.
